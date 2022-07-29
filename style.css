@@ -14,11 +14,10 @@ body {
 }
 
 .container {
-  width: 850px;
+  max-width: 850px;
   background-color:#f1f1f1;
   border: 1px solid #36363692;
   padding: 25px;
-  width: 500px;
   margin: 0 auto;
   border-radius: 5px;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.3);
